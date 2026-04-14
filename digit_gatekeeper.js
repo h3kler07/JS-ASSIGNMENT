@@ -40,4 +40,4 @@ let l = prompt("Enter the value of L:");
 let r = prompt("Enter the value of R:");
 let k = prompt("Enter the value of K:");
 let result = countValid(Number(l), Number(r), Number(k));
-console.log("The count of valid integers is: " + result);
+alert("The count of valid integers is: " + result);
